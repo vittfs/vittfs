@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💻Full Stack Developer<br>📚 Learning through hands-on projects and problem-solving<br>🎯 Building a solid foundation in programming</p>
+<p align="left">I’m 19 years old and passionate about technology and turning ideas into digital solutions.<br>I completed 3 years of a technical course in Internet Informatics, where I built a strong foundation in web development.<br><br>Currently, I’m studying Systems Analysis and Development, expanding my knowledge in programming and project building.<br><br>🌷 Interested in front-end and back-end development<br>💗 Always learning, creating, and evolving<br>🫧 Growing my journey in tech</p>
 
 ###
 
